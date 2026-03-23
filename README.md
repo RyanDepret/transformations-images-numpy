@@ -16,7 +16,7 @@ réalisé en parallèle de ma formation Développeur IA.
 - Inversion des couleurs
 
 ## Aperçu
-[Ajouter screenshot ici]
+![Aperçu du projet](apercu.png)
 
 ## Lancer le projet
 1. Cloner le repository
